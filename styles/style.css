@@ -7,7 +7,7 @@
 }
 :root{
     --color-primary: #191d2b;
-    --color-secondary: #27AE60;
+    --color-secondary: #3cdef0;
     --color-white: #FFFFFF;
     --color-black: #000;
     --color-grey0: #f8f8f8;
@@ -311,10 +311,10 @@ p{
     width: 70%;
 }
 .progress-bar>.progress-con>.progress>.skill3{
-    width: 60%;
+    width: 70%;
 }
 .progress-bar>.progress-con>.progress>.skill4{
-    width: 40%;
+    width: 60%;
 }
 
 .stat-title{
@@ -552,7 +552,7 @@ padding-right: 10%;
 .contact-info>.contact-item{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    /* justify-content: space-between; */
 }
 .contact-item>p{
     margin: .3rem 0 !important;
